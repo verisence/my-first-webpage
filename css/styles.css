@@ -1,0 +1,23 @@
+h1 {
+  font-style: Tahoma;
+  font-weight: 800;
+  text-transform: uppercase;
+  text-align: center;
+}
+body {
+  /* background-color: #98ff00; */
+  font-family: Arial;
+  width: 80%;
+  margin: auto;
+}
+em {
+  font-style: normal;
+}
+strong {
+  font-style: italic;
+  font-weight: lighter;
+}
+img {
+  width: 80%;
+  height: auto;
+}
